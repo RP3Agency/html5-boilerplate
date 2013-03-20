@@ -59,3 +59,10 @@ want to write about your project.
 
 Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
 developers have helped make the HTML5 Boilerplate what it is today.
+
+
+## About This Fork
+
+This fork is an attempt to implement the CSS via the Sass/Compass preprocessor
+framework.  Also, I have replaced Normalize.css with the Eric Meyer reset (as
+loaded through Compass).
